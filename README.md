@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Nourdine
 
-🎯 Data Analyst en devenir, spécialisé dans l’analyse des données et la création de tableaux de bord interactifs.
+🎯 Data Analyst junior, spécialisé dans l’analyse des données et la création de tableaux de bord interactifs.
 
 ---
 
