@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Bonjour, moi c’est Nourdine
 
-<!--
-**NourLuz/NourLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst en devenir, spécialisé dans l’analyse des données et la création de tableaux de bord interactifs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Compétences
+
+- 📊 Power BI (Dashboards interactifs)
+- 🐍 Python (Pandas, analyse de données)
+- 📈 Excel (Analyse & reporting)
+- 🧮 SQL (jointures, agrégations, analyse de données)
+
+---
+
+## 📊 Projets
+
+### 🔹 Analyse des ventes
+- Création d’un dashboard pour suivre les ventes, les revenus et les performances
+
+### 🔹 Analyse marketing (RFM)
+- Segmentation client basée sur le comportement d’achat
+
+---
+
+## 🚀 Objectif
+
+Mettre la data au service de la prise de décision en entreprise.
+
+---
+
+## 📫 Me contacter
+
+- Email : Nourdineluzaya@gmail.com
+- LinkedIn : ...
