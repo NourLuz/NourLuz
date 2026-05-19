@@ -20,7 +20,8 @@
 Cette analyse permet d’identifier les clients les plus précieux, ceux à fort potentiel ainsi que ceux à risque, afin d’orienter les stratégies marketing et de fidélisation. 
 
 ### 🔹 Analyse marketing 
-- Segmentation client basée sur le comportement d’achat
+- Projet d’analyse des données marketing visant à évaluer l’efficacité des campagnes, comprendre le comportement des clients et optimiser les stratégies d’acquisition et de conversion.
+Cette analyse met en évidence les canaux les plus performants, les segments les plus réactifs et les opportunités d’amélioration du retour sur investissement (ROI).
 
 ### 🔹 Analyse des plaintes clients
 - Analyse des plaintes clients dans le secteur télécom visant à identifier les principaux problèmes rencontrés par les utilisateurs, évaluer la qualité du service et améliorer le processus de résolution.
