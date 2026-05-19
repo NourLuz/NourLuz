@@ -19,7 +19,7 @@
 - Projet d’analyse des ventes visant à comprendre le comportement des clients et optimiser les performances commerciales à travers la méthode RFM (Récence, Fréquence, Montant).
 Cette analyse permet d’identifier les clients les plus précieux, ceux à fort potentiel ainsi que ceux à risque, afin d’orienter les stratégies marketing et de fidélisation. 
 
-### 🔹 Analyse marketing 
+### 🔹 Analyse des performances marketing 
 - Projet d’analyse des données marketing visant à évaluer l’efficacité des campagnes, comprendre le comportement des clients et optimiser les stratégies d’acquisition et de conversion.
 Cette analyse met en évidence les canaux les plus performants, les segments les plus réactifs et les opportunités d’amélioration du retour sur investissement (ROI).
 
